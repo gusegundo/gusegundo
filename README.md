@@ -2,7 +2,7 @@
 
 Estudante do 2º período de ADS, focado em dominar a lógica de programação com Python e entender o funcionamento interno de aplicações web e do ambiente Linux.
 
-Atualmente utilizando Linux como sistema operacional principal no notebook, com prática diária no terminal e comandos básicos de navegação e automação.
+Atualmente utilizando Linux como sistema operacional principal, com prática diária no terminal e comandos básicos de navegação e automação.
 
 ---
 
