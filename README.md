@@ -8,8 +8,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) no 2 período. Sou um 
 
 ---
 
-### Jogo da Cobrinha (Snake)
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustav/gustav/output/github-contribution-grid-snake-dark.svg">
