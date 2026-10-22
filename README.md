@@ -27,4 +27,20 @@ Atualmente utilizando Linux como sistema operacional principal, com prática di�
 
 ### Contribuições
 
-![Snake animation](https://github.com/gusegundo/gusegundo/blob/output/github-contribution-grid-snake.svg)
+
+<h3 align="left">Contribuições</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gusegundo/gusegundo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gusegundo/gusegundo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/gusegundo/gusegundo/output/github-contribution-grid-snake.svg"
+  />
+</picture>
