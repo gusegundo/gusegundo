@@ -1,10 +1,10 @@
 ### Ola, mundo! Sou o Gustavo
 
-Sou um desenvolvedor apaixonado por tecnologia e software. Adoro criar soluções criativas e aprender coisas novas todos os dias!
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) no 2 período. Sou um desenvolvedor focado em back-end, construindo a lógica por trás das aplicações, entendendo a arquitetura de sistemas e explorando conceitos de cibersegurança pelo caminho.
 
-- Atualmente estou trabalhando em projetos desafiadores.
-- Estou aprendendo novas tecnologias e frameworks.
-- Pode me perguntar sobre desenvolvimento, código e inovação!
+- Atualmente focado em fortalecer a base em desenvolvimento back-end e lógica de programação.
+- Explorando boas práticas de código, bancos de dados e segurança da informação.
+- Aberto a parcerias, dúvidas sobre código e troca de ideias sobre tecnologia.
 
 ---
 
