@@ -25,7 +25,6 @@ Atualmente utilizando Linux como sistema operacional principal, com prática di�
 
 ---
 
-### Contribuições
 
 
 <h3 align="left">Contribuições</h3>
