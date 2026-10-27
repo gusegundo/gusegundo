@@ -1,31 +1,40 @@
 # Gustavo (gusegundo)
+**Full-Stack Developer Student** | Brazil
 
-Estudante do 2º período de ADS, focado em dominar a lógica de programação com Python e entender o funcionamento interno de aplicações web e do ambiente Linux.
-
-Atualmente utilizando Linux como sistema operacional principal, com prática diária no terminal e comandos básicos de navegação e automação.
+Systems Analysis and Development student focused on building end-to-end web applications. Experience in frontend interface design with React and scalable REST APIs with FastAPI and Python. Linux user with a focus on modern software development practices.
 
 ---
 
-### Tecnologias & Ferramentas
+## Technical Skills
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Environment & Tools:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Terminal/CLI-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### Foco Atual de Estudos
+## Featured Project
 
-- **Python:** Prática de lógica, algoritmos e automação (linguagem principal no momento).
-- **JavaScript:** Início dos estudos em dinâmica para web.
-- **HTML5 & CSS3:** Estruturação e estilização de páginas web.
-- **Linux:** Utilização contínua do ambiente para gestão do sistema e rotinas de desenvolvimento.
+### Flashcards Application
+A full-stack web application built to optimize learning through customizable flashcards.
 
----
-
-
+* **Frontend Architecture:** Component-based UI using React JS and styled with Tailwind CSS for clean layout and responsive behavior.
+* **Backend Architecture:** REST API developed with FastAPI (Python), providing lightweight, fast, and structured data endpoints.
+* **Core Functionalities:** CRUD operations for cards/decks, state management, and optimized API request handling.
 
 <h3 align="left">Contribuições</h3>
 
