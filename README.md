@@ -1,4 +1,3 @@
-# Gustavo (gusegundo)
 **Full-Stack Developer Student** | Brazil
 
 Systems Analysis and Development student focused on building end-to-end web applications. Experience in frontend interface design with React and scalable REST APIs with FastAPI and Python. Linux user with a focus on modern software development practices.
